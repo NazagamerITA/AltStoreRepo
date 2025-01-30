@@ -1,8 +1,8 @@
 {
-    "name": "My Example Source",
-    "subtitle": "All my apps in one place.",
-    "description": "Welcome to my source! Here you'll find all of my apps.",
-    "iconURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OctoSource.png",
+    "name": "AppSpot",
+    "subtitle": "La repo delle app di Naza",
+    "description": "Benvenuto nella Repository delle App di Naza! Ci sto ancora lavorando, ma tenetevi pronti!",
+    "iconURL": "https://i.postimg.cc/g0Z7g952/AppSpot.png",
     "headerURL": "https://f000.backblazeb2.com/file/rileytestut/ExampleSource/OceanHeader.png",
     "website": "https://example.com",
     "tintColor": "#4185A9",
